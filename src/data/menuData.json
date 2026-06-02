@@ -1,0 +1,335 @@
+{
+  "categories": ["Starter", "Main Course", "Dessert", "Sides"],
+  "dishes": [
+    {
+      "id": 1,
+      "name": "Tandoori Chicken",
+      "category": "Main Course",
+      "type": "nonveg",
+      "description": "Traditional Indian grilled chicken marinated in yogurt and spices, cooked in a clay oven for that smoky flavour.",
+      "image": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=400&h=300&fit=crop",
+      "subCategory": "North Indian",
+      "ingredients": [
+        { "name": "Chicken", "quantity": "500 gm" },
+        { "name": "Yogurt", "quantity": "200 ml" },
+        { "name": "Tandoori Masala", "quantity": "3 tbsp" },
+        { "name": "Lemon Juice", "quantity": "2 tbsp" },
+        { "name": "Ginger-Garlic Paste", "quantity": "2 tbsp" },
+        { "name": "Red Chili Powder", "quantity": "1 tsp" },
+        { "name": "Oil", "quantity": "2 tbsp" },
+        { "name": "Salt", "quantity": "to taste" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Dak Makhni",
+      "category": "Main Course",
+      "type": "veg",
+      "description": "Dal makhani is an Indian dish originating from Punjab. It is made with urad dal and kidney beans.",
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=400&h=300&fit=crop",
+      "subCategory": "North Indian",
+      "ingredients": [
+        { "name": "Black Lentils (Urad Dal)", "quantity": "200 gm" },
+        { "name": "Kidney Beans", "quantity": "50 gm" },
+        { "name": "Butter", "quantity": "50 gm" },
+        { "name": "Cream", "quantity": "100 ml" },
+        { "name": "Tomato Puree", "quantity": "200 ml" },
+        { "name": "Onion", "quantity": "2 pcs" },
+        { "name": "Ginger-Garlic Paste", "quantity": "2 tbsp" },
+        { "name": "Garam Masala", "quantity": "1 tsp" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Cabbage Stir Fry",
+      "category": "Main Course",
+      "type": "veg",
+      "description": "Cabbage, comprising several cultivars of Brassica oleracea, is a leafy green, red, or white biennial plant.",
+      "image": "https://images.unsplash.com/photo-1551248429-40975aa4de74?w=400&h=300&fit=crop",
+      "subCategory": "North Indian",
+      "ingredients": [
+        { "name": "Cabbage", "quantity": "500 gm" },
+        { "name": "Mustard Oil", "quantity": "2 tbsp" },
+        { "name": "Mustard Seeds", "quantity": "1 tsp" },
+        { "name": "Green Chili", "quantity": "2 pcs" },
+        { "name": "Turmeric", "quantity": "0.5 tsp" },
+        { "name": "Salt", "quantity": "to taste" },
+        { "name": "Coriander Leaves", "quantity": "handful" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Butter Chicken",
+      "category": "Main Course",
+      "type": "nonveg",
+      "description": "Succulent chicken pieces simmered in a rich, creamy tomato-based sauce with aromatic spices.",
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=400&h=300&fit=crop",
+      "subCategory": "North Indian",
+      "ingredients": [
+        { "name": "Chicken", "quantity": "600 gm" },
+        { "name": "Butter", "quantity": "60 gm" },
+        { "name": "Fresh Cream", "quantity": "150 ml" },
+        { "name": "Tomatoes", "quantity": "4 pcs" },
+        { "name": "Onion", "quantity": "2 pcs" },
+        { "name": "Cashews", "quantity": "20 gm" },
+        { "name": "Garam Masala", "quantity": "1 tsp" },
+        { "name": "Kasuri Methi", "quantity": "1 tbsp" }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Palak Paneer",
+      "category": "Main Course",
+      "type": "veg",
+      "description": "Creamy spinach curry with soft paneer cubes, flavoured with aromatic spices and finished with cream.",
+      "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=400&h=300&fit=crop",
+      "subCategory": "North Indian",
+      "ingredients": [
+        { "name": "Spinach (Palak)", "quantity": "400 gm" },
+        { "name": "Paneer", "quantity": "250 gm" },
+        { "name": "Onion", "quantity": "2 pcs" },
+        { "name": "Tomato", "quantity": "2 pcs" },
+        { "name": "Fresh Cream", "quantity": "50 ml" },
+        { "name": "Ginger-Garlic Paste", "quantity": "1 tbsp" },
+        { "name": "Cumin Seeds", "quantity": "1 tsp" },
+        { "name": "Oil", "quantity": "2 tbsp" }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Prawn Masala",
+      "category": "Main Course",
+      "type": "nonveg",
+      "description": "Juicy prawns cooked in a tangy tomato-onion masala with coastal spices and coconut.",
+      "image": "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?w=400&h=300&fit=crop",
+      "subCategory": "South Indian",
+      "ingredients": [
+        { "name": "Prawns", "quantity": "500 gm" },
+        { "name": "Coconut Milk", "quantity": "200 ml" },
+        { "name": "Tomato", "quantity": "3 pcs" },
+        { "name": "Onion", "quantity": "2 pcs" },
+        { "name": "Curry Leaves", "quantity": "handful" },
+        { "name": "Mustard Seeds", "quantity": "1 tsp" },
+        { "name": "Red Chili", "quantity": "3 pcs" },
+        { "name": "Coriander Powder", "quantity": "1 tbsp" }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Samosa",
+      "category": "Starter",
+      "type": "veg",
+      "description": "Crispy golden triangular pastry filled with spiced potatoes and peas, served with mint chutney.",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=400&h=300&fit=crop",
+      "subCategory": "Indian Snacks",
+      "ingredients": [
+        { "name": "All Purpose Flour", "quantity": "200 gm" },
+        { "name": "Potato", "quantity": "300 gm" },
+        { "name": "Green Peas", "quantity": "100 gm" },
+        { "name": "Cumin Seeds", "quantity": "1 tsp" },
+        { "name": "Coriander Powder", "quantity": "1 tsp" },
+        { "name": "Garam Masala", "quantity": "0.5 tsp" },
+        { "name": "Oil", "quantity": "for frying" },
+        { "name": "Salt", "quantity": "to taste" }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Chicken Tikka",
+      "category": "Starter",
+      "type": "nonveg",
+      "description": "Bite-sized boneless chicken chunks marinated in spices and grilled to perfection in a tandoor.",
+      "image": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?w=400&h=300&fit=crop",
+      "subCategory": "Indian Snacks",
+      "ingredients": [
+        { "name": "Chicken (Boneless)", "quantity": "400 gm" },
+        { "name": "Yogurt", "quantity": "150 ml" },
+        { "name": "Tikka Masala", "quantity": "3 tbsp" },
+        { "name": "Lemon Juice", "quantity": "2 tbsp" },
+        { "name": "Red Chili Powder", "quantity": "1 tsp" },
+        { "name": "Ginger-Garlic Paste", "quantity": "2 tbsp" },
+        { "name": "Oil", "quantity": "2 tbsp" },
+        { "name": "Chat Masala", "quantity": "1 tsp" }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Paneer Tikka",
+      "category": "Starter",
+      "type": "veg",
+      "description": "Soft cottage cheese cubes marinated in vibrant spiced yogurt and grilled until charred edges form.",
+      "image": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=400&h=300&fit=crop",
+      "subCategory": "Indian Snacks",
+      "ingredients": [
+        { "name": "Paneer", "quantity": "300 gm" },
+        { "name": "Yogurt", "quantity": "150 ml" },
+        { "name": "Bell Pepper", "quantity": "2 pcs" },
+        { "name": "Onion", "quantity": "2 pcs" },
+        { "name": "Tikka Masala", "quantity": "2 tbsp" },
+        { "name": "Turmeric", "quantity": "0.5 tsp" },
+        { "name": "Lemon Juice", "quantity": "1 tbsp" },
+        { "name": "Oil", "quantity": "2 tbsp" }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Soup of the Day",
+      "category": "Starter",
+      "type": "veg",
+      "description": "Chef's special freshly made vegetable soup with seasonal produce and aromatic herbs.",
+      "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&h=300&fit=crop",
+      "subCategory": "Soups",
+      "ingredients": [
+        { "name": "Mixed Vegetables", "quantity": "400 gm" },
+        { "name": "Vegetable Stock", "quantity": "500 ml" },
+        { "name": "Cream", "quantity": "50 ml" },
+        { "name": "Onion", "quantity": "1 pc" },
+        { "name": "Garlic", "quantity": "4 cloves" },
+        { "name": "Herbs", "quantity": "handful" },
+        { "name": "Black Pepper", "quantity": "1 tsp" },
+        { "name": "Salt", "quantity": "to taste" }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Fish Fingers",
+      "category": "Starter",
+      "type": "nonveg",
+      "description": "Crispy golden-fried fish strips seasoned with herbs and spices, served with tartar sauce.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400&h=300&fit=crop",
+      "subCategory": "Indian Snacks",
+      "ingredients": [
+        { "name": "Fish Fillet", "quantity": "400 gm" },
+        { "name": "Breadcrumbs", "quantity": "100 gm" },
+        { "name": "Egg", "quantity": "2 pcs" },
+        { "name": "All Purpose Flour", "quantity": "50 gm" },
+        { "name": "Garlic Powder", "quantity": "1 tsp" },
+        { "name": "Paprika", "quantity": "1 tsp" },
+        { "name": "Lemon Juice", "quantity": "1 tbsp" },
+        { "name": "Oil", "quantity": "for frying" }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Gulab Jamun",
+      "category": "Dessert",
+      "type": "veg",
+      "description": "Soft, spongy milk-solid dumplings soaked in rose-flavoured sugar syrup. A royal Indian sweet.",
+      "image": "https://images.unsplash.com/photo-1666671792501-e91bd2efb77a?w=400&h=300&fit=crop",
+      "subCategory": "Indian Sweets",
+      "ingredients": [
+        { "name": "Milk Powder", "quantity": "200 gm" },
+        { "name": "All Purpose Flour", "quantity": "50 gm" },
+        { "name": "Baking Soda", "quantity": "0.25 tsp" },
+        { "name": "Ghee", "quantity": "2 tbsp" },
+        { "name": "Sugar", "quantity": "300 gm" },
+        { "name": "Rose Water", "quantity": "2 tbsp" },
+        { "name": "Cardamom", "quantity": "4 pods" },
+        { "name": "Oil", "quantity": "for frying" }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Mango Kulfi",
+      "category": "Dessert",
+      "type": "veg",
+      "description": "Traditional Indian frozen dessert made with reduced milk, mango pulp and a hint of cardamom.",
+      "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=400&h=300&fit=crop",
+      "subCategory": "Frozen Desserts",
+      "ingredients": [
+        { "name": "Full-fat Milk", "quantity": "1 litre" },
+        { "name": "Mango Pulp", "quantity": "200 gm" },
+        { "name": "Condensed Milk", "quantity": "100 ml" },
+        { "name": "Sugar", "quantity": "50 gm" },
+        { "name": "Cardamom Powder", "quantity": "0.5 tsp" },
+        { "name": "Pistachios", "quantity": "30 gm" },
+        { "name": "Saffron", "quantity": "a pinch" }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Chocolate Brownie",
+      "category": "Dessert",
+      "type": "veg",
+      "description": "Rich, fudgy dark chocolate brownie with a crispy top and gooey centre, served warm with ice cream.",
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=400&h=300&fit=crop",
+      "subCategory": "Baked Goods",
+      "ingredients": [
+        { "name": "Dark Chocolate", "quantity": "200 gm" },
+        { "name": "Butter", "quantity": "100 gm" },
+        { "name": "Sugar", "quantity": "200 gm" },
+        { "name": "Eggs", "quantity": "3 pcs" },
+        { "name": "All Purpose Flour", "quantity": "80 gm" },
+        { "name": "Cocoa Powder", "quantity": "30 gm" },
+        { "name": "Vanilla Extract", "quantity": "1 tsp" },
+        { "name": "Walnuts", "quantity": "50 gm" }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Steamed Rice",
+      "category": "Sides",
+      "type": "veg",
+      "description": "Perfectly cooked fluffy basmati rice, a classic accompaniment to any curry or main dish.",
+      "image": "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?w=400&h=300&fit=crop",
+      "subCategory": "Rice & Bread",
+      "ingredients": [
+        { "name": "Basmati Rice", "quantity": "500 gm" },
+        { "name": "Water", "quantity": "1 litre" },
+        { "name": "Salt", "quantity": "to taste" },
+        { "name": "Oil", "quantity": "1 tbsp" }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Garlic Naan",
+      "category": "Sides",
+      "type": "veg",
+      "description": "Soft, pillowy leavened flatbread brushed with garlic butter and baked in a traditional tandoor.",
+      "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400&h=300&fit=crop",
+      "subCategory": "Rice & Bread",
+      "ingredients": [
+        { "name": "All Purpose Flour", "quantity": "300 gm" },
+        { "name": "Yeast", "quantity": "7 gm" },
+        { "name": "Yogurt", "quantity": "100 ml" },
+        { "name": "Garlic", "quantity": "6 cloves" },
+        { "name": "Butter", "quantity": "50 gm" },
+        { "name": "Coriander Leaves", "quantity": "handful" },
+        { "name": "Sugar", "quantity": "1 tsp" },
+        { "name": "Salt", "quantity": "to taste" }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Raita",
+      "category": "Sides",
+      "type": "veg",
+      "description": "Cooling yogurt dip with cucumber, mint and spices — the perfect companion to spicy Indian dishes.",
+      "image": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=400&h=300&fit=crop",
+      "subCategory": "Condiments",
+      "ingredients": [
+        { "name": "Yogurt", "quantity": "400 ml" },
+        { "name": "Cucumber", "quantity": "1 pc" },
+        { "name": "Mint Leaves", "quantity": "handful" },
+        { "name": "Cumin Powder", "quantity": "1 tsp" },
+        { "name": "Black Salt", "quantity": "0.5 tsp" },
+        { "name": "Red Chili Powder", "quantity": "0.25 tsp" }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Papad",
+      "category": "Sides",
+      "type": "veg",
+      "description": "Thin, crispy lentil wafers roasted or fried and served as a crunchy accompaniment.",
+      "image": "https://images.unsplash.com/photo-1606914469633-bd53f5948813?w=400&h=300&fit=crop",
+      "subCategory": "Condiments",
+      "ingredients": [
+        { "name": "Papad (Lentil Wafers)", "quantity": "10 pcs" },
+        { "name": "Oil", "quantity": "for frying" },
+        { "name": "Cumin Seeds", "quantity": "0.5 tsp" },
+        { "name": "Black Pepper", "quantity": "0.5 tsp" }
+      ]
+    }
+  ]
+}
